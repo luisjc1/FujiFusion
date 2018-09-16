@@ -1,0 +1,28 @@
+companyName,ticker,vendorCreditRating,RBCCreditRating,delta,value
+Exxon Mobil Corp,XOM,AAA,AAA,0,0
+Chevron Corp,CVX,AA,AA,0,0
+Schlumberger Ltd,SLB,AA-,AA-,0,0
+Conocophillips,COP,A,BB+,5,12320
+Eog Resources Inc,EOG,A-,A-,0,0
+Occidental Petroleum Corp,OXY,A,A,0,0
+Halliburton Co,HAL,A,A,0,0
+Valero Energy Corp,VLO,BBB,BBB,0,0
+Phillips 66,PSX,BBB+,BBB-,2,5135
+Marathon Petroleum Corp,MPC,BBB,BBB,0,0
+Anadarko Petroleum Corp,APC,BBB,BBB,0,7791
+Kinder Morgan Inc,KMI,BBB-,BB,2,0
+Pioneer Natural Resources Co,PXD,BBB-,BBB-,0,0
+Oneok Inc,OKE,BB+,BB+,0,8067
+Concho Resources Inc,CXO,BB+,BB+,0,7233
+Williams Cos Inc,WMB,BB+,BB+,0,11207
+Devon Energy Corp,DVN,BBB+,BBB+,0,0
+Andeavor,ANDV,BB+,BB+,0,0
+Noble Energy Inc,NBL,BBB,BBB,0,0
+Apache Corp,APA,A-,A-,0,0
+Hess Corp,HES,BBB,BBB,0,0
+National Oilwell Varco Inc,NOV,A+,A+,0,0
+Technipfmc Plc,FTI,BBB+,BBB-,2,0
+Cimarex Energy Co,XEC,BBB-,BBB-,0,0
+Helmerich & Payne,HP,BBB+,BBB+,0,0
+Newfield Exploration Co,NFX,BBB-,BBB-,0,0
+Range Resources Corp,RRC,BB+,BB+,0,0
