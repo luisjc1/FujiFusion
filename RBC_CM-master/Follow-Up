@@ -1,0 +1,36 @@
+Follow-Up
+
+http://scikit-learn.org/stable/modules/feature_selection.html
+http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html
+https://machinelearningmastery.com/k-fold-cross-validation/
+
+Neural architecture search
+K fold validation
+
+Presentation
+
+1. The Problem / Background
+- Ratings are not accurate. caused '08 crash
+- Incorporate other features so we don't want to meet 100% exactly 
+- discrepancy with tesla shareholders and actual stock price
+- users: traders but also individual clients 
+2. The Solution
+- emphasis on how this information can be digested and used
+3. Future Work
+- All data was energy sector
+- feature engineering through discussions with traders. sklearn decomp, ensemble, svm, bagged decision trees and random forest
+- more data as always - 500 rows not enough
+- consider Kensho data
+- normalize using sector and firm that rated
+
+Product:
+- show how much invested
+- show how much sold
+- sort by num shares
+
+benefits of white box
+
+Sources:
+https://aflcio.org/paywatch/company-pay-ratios
+https://www.wsj.com/graphics/ceo-salary-vs-company-performance/
+https://www1.salary.com

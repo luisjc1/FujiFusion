@@ -1,0 +1,218 @@
+[
+   {
+      "companyName": "Exxon Mobil Corp",
+      "ticker": "XOM",
+      "vendorCreditRating": "AAA",
+      "RBCCreditRating": "AAA",
+      "delta": 0,
+      "value": 0
+   },
+   {
+      "companyName": "Chevron Corp",
+      "ticker": "CVX",
+      "vendorCreditRating": "AA",
+      "RBCCreditRating": "AA",
+      "delta": 0,
+      "value": 0
+   },
+   {
+      "companyName": "Schlumberger Ltd",
+      "ticker": "SLB",
+      "vendorCreditRating": "AA-",
+      "RBCCreditRating": "AA-",
+      "delta": 0,
+      "value": 0
+   },
+   {
+      "companyName": "Conocophillips",
+      "ticker": "COP",
+      "vendorCreditRating": "A",
+      "RBCCreditRating": "BB+",
+      "delta": 5,
+      "value": 12320
+   },
+   {
+      "companyName": "Eog Resources Inc",
+      "ticker": "EOG",
+      "vendorCreditRating": "A-",
+      "RBCCreditRating": "A-",
+      "delta": 0,
+      "value": 0
+   },
+   {
+      "companyName": "Occidental Petroleum Corp",
+      "ticker": "OXY",
+      "vendorCreditRating": "A",
+      "RBCCreditRating": "A",
+      "delta": 0,
+      "value": 0
+   },
+   {
+      "companyName": "Halliburton Co",
+      "ticker": "HAL",
+      "vendorCreditRating": "A",
+      "RBCCreditRating": "A",
+      "delta": 0,
+      "value": 0
+   },
+   {
+      "companyName": "Valero Energy Corp",
+      "ticker": "VLO",
+      "vendorCreditRating": "BBB",
+      "RBCCreditRating": "BBB",
+      "delta": 0,
+      "value": 0
+   },
+   {
+      "companyName": "Phillips 66",
+      "ticker": "PSX",
+      "vendorCreditRating": "BBB+",
+      "RBCCreditRating": "BBB-",
+      "delta": 2,
+      "value": 5135
+   },
+   {
+      "companyName": "Marathon Petroleum Corp",
+      "ticker": "MPC",
+      "vendorCreditRating": "BBB",
+      "RBCCreditRating": "BBB",
+      "delta": 0,
+      "value": 0
+   },
+   {
+      "companyName": "Anadarko Petroleum Corp",
+      "ticker": "APC",
+      "vendorCreditRating": "BBB",
+      "RBCCreditRating": "BBB",
+      "delta": 0,
+      "value": 7791
+   },
+   {
+      "companyName": "Kinder Morgan Inc",
+      "ticker": "KMI",
+      "vendorCreditRating": "BBB-",
+      "RBCCreditRating": "BB",
+      "delta": 2,
+      "value": 0
+   },
+   {
+      "companyName": "Pioneer Natural Resources Co",
+      "ticker": "PXD",
+      "vendorCreditRating": "BBB-",
+      "RBCCreditRating": "BBB-",
+      "delta": 0,
+      "value": 0
+   },
+   {
+      "companyName": "Oneok Inc",
+      "ticker": "OKE",
+      "vendorCreditRating": "BB+",
+      "RBCCreditRating": "BB+",
+      "delta": 0,
+      "value": 8067
+   },
+   {
+      "companyName": "Concho Resources Inc",
+      "ticker": "CXO",
+      "vendorCreditRating": "BB+",
+      "RBCCreditRating": "BB+",
+      "delta": 0,
+      "value": 7233
+   },
+   {
+      "companyName": "Williams Cos Inc",
+      "ticker": "WMB",
+      "vendorCreditRating": "BB+",
+      "RBCCreditRating": "BB+",
+      "delta": 0,
+      "value": 11207
+   },
+   {
+      "companyName": "Devon Energy Corp",
+      "ticker": "DVN",
+      "vendorCreditRating": "BBB+",
+      "RBCCreditRating": "BBB+",
+      "delta": 0,
+      "value": 0
+   },
+   {
+      "companyName": "Andeavor",
+      "ticker": "ANDV",
+      "vendorCreditRating": "BB+",
+      "RBCCreditRating": "BB+",
+      "delta": 0,
+      "value": 0
+   },
+   {
+      "companyName": "Noble Energy Inc",
+      "ticker": "NBL",
+      "vendorCreditRating": "BBB",
+      "RBCCreditRating": "BBB",
+      "delta": 0,
+      "value": 0
+   },
+   {
+      "companyName": "Apache Corp",
+      "ticker": "APA",
+      "vendorCreditRating": "A-",
+      "RBCCreditRating": "A-",
+      "delta": 0,
+      "value": 0
+   },
+   {
+      "companyName": "Hess Corp",
+      "ticker": "HES",
+      "vendorCreditRating": "BBB",
+      "RBCCreditRating": "BBB",
+      "delta": 0,
+      "value": 0
+   },
+   {
+      "companyName": "National Oilwell Varco Inc",
+      "ticker": "NOV",
+      "vendorCreditRating": "A+",
+      "RBCCreditRating": "A+",
+      "delta": 0,
+      "value": 0
+   },
+   {
+      "companyName": "Technipfmc Plc",
+      "ticker": "FTI",
+      "vendorCreditRating": "BBB+",
+      "RBCCreditRating": "BBB-",
+      "delta": 2,
+      "value": 0
+   },
+   {
+      "companyName": "Cimarex Energy Co",
+      "ticker": "XEC",
+      "vendorCreditRating": "BBB-",
+      "RBCCreditRating": "BBB-",
+      "delta": 0,
+      "value": 0
+   },
+   {
+      "companyName": "Helmerich & Payne",
+      "ticker": "HP",
+      "vendorCreditRating": "BBB+",
+      "RBCCreditRating": "BBB+",
+      "delta": 0,
+      "value": 0
+   },
+   {
+      "companyName": "Newfield Exploration Co",
+      "ticker": "NFX",
+      "vendorCreditRating": "BBB-",
+      "RBCCreditRating": "BBB-",
+      "delta": 0,
+      "value": 0
+   },
+   {
+      "companyName": "Range Resources Corp",
+      "ticker": "RRC",
+      "vendorCreditRating": "BB+",
+      "RBCCreditRating": "BB+",
+      "delta": 0,
+      "value": 0
+   }
+]
