@@ -18,3 +18,7 @@ We took two approaches to analyzing the data: a supervised k-nearest neighbors a
 
 ## Product
 We present a cross-platform application built using Ionic that works with Android, iOS, and PCs. Our platform allows users to view their investments, our predicted credit rating for each company, a vendor rating for each company, and visual cues to outline discrepancies. They can buy and sell stock through our app, while also exploring other companies they would potentially be interested in investing in.
+
+## Team
+
+# ![team](media/team.jpg)
