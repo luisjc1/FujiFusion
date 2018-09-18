@@ -21,4 +21,4 @@ We present a cross-platform application built using Ionic that works with Androi
 
 ## Team
 
-# ![team](media/team.jpg)
+# ![team](media/team.png)
