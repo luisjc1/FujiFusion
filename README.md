@@ -1,6 +1,6 @@
 # ![Fujifusion](media/logo.png)
 
-Fujifusion is our group's submission for Hack MIT 2018.  It is a data-driven application for predicting corporate credit ratings. Project won 1st place in RBC Capital Markets prize for 'Best Use of Artificial Intelligence, Data Science, & Machine Learning'. Devpost [TBD](https://devpost.com/software/fujifusion-hackmit2018)
+Fujifusion is our group's submission for Hack MIT 2018 [[Devpost](https://devpost.com/software/fujifusion-hackmit2018)].  It is a data-driven application for predicting corporate credit ratings. Project won 1st place in RBC Capital Markets prize for 'Best Use of Artificial Intelligence, Data Science, & Machine Learning'.
 
 ## Problem
 Scholars and regulators generally agree that credit rating agency failures were at the center of the 2007-08 global financial crisis.
